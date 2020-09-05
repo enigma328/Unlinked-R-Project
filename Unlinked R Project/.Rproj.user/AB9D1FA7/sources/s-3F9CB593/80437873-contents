@@ -1,0 +1,3 @@
+print("Emulate a situation where we have an R project")
+print("that is not linked in GitHub")
+
